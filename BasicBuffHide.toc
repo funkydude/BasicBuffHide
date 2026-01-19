@@ -1,7 +1,7 @@
-## Interface: 11506, 11507, 20504, 30404, 40402, 40401, 50500, 110105, 110107, 110100
+## Interface: 11508, 11507, 20505, 30405, 38000, 40402, 50503, 50502, 120001, 110207, 120000
 ## Title: BasicBuffHide
 ## Notes: Hide the Blizzard Buff frame
-## Author: Funkydude
+## Author: Funkeh
 ## Version: @project-version@
 ## X-Category: Buffs
 ## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
@@ -10,4 +10,3 @@
 ## X-Wago-ID: JZKbL4N1
 
 BasicBuffHide.lua
-
